@@ -14,7 +14,8 @@ $ npm install sort-by-pinyin
 ```js
 var sort = require('sort-by-pinyin');
 
-console.log(sort(['上海', '北京', '厦门', '杭州', '长沙']));
+console.log(sort(['上海', '北京', '杭州', '长沙']));
+// ==> [ '北京', '长沙', '杭州', '上海' ]
 ```
 
 
