@@ -1,6 +1,9 @@
 # sort-by-pinyin
 [![NPM version](https://img.shields.io/npm/v/sort-by-pinyin.svg?style=flat)](https://www.npmjs.org/package/sort-by-pinyin)
 
+> Note:
+> This package can NOT deal the heteronym(aka. 多音字) very well.
+
 
 ------
 
